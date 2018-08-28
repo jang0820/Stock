@@ -1,4 +1,4 @@
-#將資料放進Mysql資料庫，就不用需要資料就讀取自證交所
+#將股票交易資料放進Mysql資料庫，就不用需要每次從證交所讀取資料
 import numpy as np
 import requests
 import pandas as pd
